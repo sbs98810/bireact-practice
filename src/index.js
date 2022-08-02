@@ -1,11 +1,3 @@
-import React from "react"
-import ReactDOM from "react-dom"
-import Apps from "./Apps"
-
-const root=ReactDOM.createRoot(document.getElementById("root"))
-
-root.render(
-  <>
-  <Apps></Apps>
-  </>
-)
+import 'bootstrap/dist/css/bootstrap.css';
+import './index.css';
+<script type="text/javascript" src="https://assets.chec-cdn.com/v2/commerce.js"></script>
